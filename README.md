@@ -1,4 +1,4 @@
-# C++ code
+# C++
 ### Hope to become an OS dev or Game dev
 
 ### <u><em>Cheat sheet</em></u>
