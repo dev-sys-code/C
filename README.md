@@ -1,5 +1,5 @@
 # C++
-### Hope to become an OS dev or Game dev ONE DAY
+### Hope to become an OS dev or Game dev one day
 
 
 ### <u><em>Cheat sheet</em></u>
