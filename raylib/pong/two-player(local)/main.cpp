@@ -1,6 +1,3 @@
-/*
-(LOCAL): Two player pong game (W + S (player one)), (I + K(player two))
-*/
 
 #include "raylib.h"
 #include <iostream>
