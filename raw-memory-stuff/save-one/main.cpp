@@ -2,7 +2,6 @@
 #include <cstdint>
 
 #pragma pack(push, 1)
-
 struct PacketHeader {
     uint16_t id;
     uint16_t status;
