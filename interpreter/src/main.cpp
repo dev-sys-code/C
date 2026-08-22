@@ -11,7 +11,7 @@ int main() {
 
     std::string varName{code.substr(0, equalPos)};
 
-    while (!varName.empty() && varName.back() == ' ') { varName.pop_back()}
+    while (!varName.empty() && varName.back() == ' ') { varName.pop_back() }
 
     std::string valStr{code.substr(equalPos + 1)};
 
