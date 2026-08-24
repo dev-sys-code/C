@@ -1,6 +1,6 @@
 # C++
 ### Hope to become an OS dev or Game dev one day
-###<em>Cheat sheet</em>
+### <em>Cheat sheet</em>
 
 `alignas - Specifying custom memory alignment`
 
